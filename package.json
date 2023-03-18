@@ -1,0 +1,22 @@
+{
+  "name": "rollup-plugin-lightningcss",
+  "version": "1.0.0",
+  "description": "Use Parcel's LightningCSS transformer and minifier with Rollup.",
+  "author": "Elias Gabriel <me@eliasfgabriel.com>",
+  "license": "MIT",
+  "keywords": [
+    "rollup-plugin",
+    "lightningcss",
+    "css",
+    "browserslist",
+    "rollup",
+    "plugin",
+    "minify"
+  ],
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "browserslist": "^4.13.0",
+    "lightningcss": "^1.19.0"
+  }
+}
