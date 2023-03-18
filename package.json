@@ -2,8 +2,7 @@
   "name": "rollup-plugin-lightningcss",
   "version": "1.0.0",
   "description": "Use Parcel's LightningCSS transformer and minifier with Rollup.",
-  "author": "Elias Gabriel <me@eliasfgabriel.com>",
-  "license": "MIT",
+  "author": "Elias Gabriel <me@eliasfgabriel.com> (https://www.eliasfgabriel.com)",
   "keywords": [
     "rollup-plugin",
     "lightningcss",
@@ -13,6 +12,10 @@
     "plugin",
     "minify"
   ],
+  "homepage": "https://github.com/thearchitector/rollup-plugin-lightningcss",
+  "bugs": "https://github.com/thearchitector/rollup-plugin-lightningcss",
+  "repository": "github:thearchitector/rollup-plugin-lightningcss",
+  "license": "MIT",
   "main": "index.js",
   "type": "module",
   "dependencies": {
