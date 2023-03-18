@@ -2,7 +2,7 @@
 
 ![latest version](https://img.shields.io/npm/v/rollup-plugin-lightningcss?label=version&style=flat-square)
 ![downloads per month](https://img.shields.io/npm/dm/rollup-plugin-lightningcss?style=flat-square)
-![license](https://img.shields.io/npm/l/rollup-lightning-plugin?style=flat-square)
+![license](https://img.shields.io/github/license/thearchitector/rollup-plugin-lightningcss?style=flat-square)
 
 A Rollup plugin for using [LightningCSS](https://lightningcss.dev/) to transform and minify your application's CSS files.
 
